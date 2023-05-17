@@ -1,0 +1,4 @@
+两步解决Chrome谷歌浏览器如何将整个网页保存为图片，再也不用慢慢截取一张张图片拼接啦~
+
+先在需要保存为图片的页面按 F12 打开开发者工具
+再按 ctrl+shift+p 输入full 搜索选择Capture full size screenshot
